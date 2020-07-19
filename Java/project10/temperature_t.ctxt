@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=temperature_t()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ temperature_t\r\n
+comment1.params=a
+comment1.target=temperature_t(int)
+comment2.params=
+comment2.target=void\ setTemp()
+comment3.params=
+comment3.target=int\ getTemp()
+numComments=4
