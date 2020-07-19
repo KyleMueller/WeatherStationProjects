@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=regex\ input
+comment0.target=boolean\ regExCheck(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getArraySize()
+comment2.params=
+comment2.target=java.lang.String\ setName()
+comment3.params=a\ name
+comment3.target=void\ quickStats(weatherMeasurement_t,\ java.lang.String)
+comment4.params=n\ t\ s\ d
+comment4.target=void\ statsGiven(java.lang.String,\ int,\ int,\ java.lang.String)
+comment5.params=weatherHistory\ historyIndex\ historyCount\ arraySize\ name
+comment5.target=void\ printHistory(weatherMeasurement_t[],\ int,\ int,\ int,\ java.lang.String)
+comment6.params=arraySize
+comment6.target=int\ getUserOption(int)
+numComments=7

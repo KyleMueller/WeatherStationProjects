@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=weatherMeasurement_t()
+comment1.params=tem\ spe\ dir
+comment1.target=weatherMeasurement_t(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setData()
+comment3.params=
+comment3.target=wind_t\ getWind()
+comment4.params=
+comment4.target=temperature_t\ getTemp()
+numComments=5
