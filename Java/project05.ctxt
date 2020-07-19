@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=project05()
+comment1.params=
+comment1.target=int\ getUserOption()
+comment10.params=regex\ input
+comment10.target=boolean\ regExCheck(java.lang.String,\ java.lang.String)
+comment11.params=
+comment11.target=void\ printHistory()
+comment2.params=
+comment2.target=void\ setName()
+comment3.params=
+comment3.target=void\ setTemp()
+comment4.params=
+comment4.target=void\ setSpeed()
+comment5.params=
+comment5.target=void\ setDirection()
+comment6.params=
+comment6.target=void\ stats()
+comment7.params=n\ t\ s\ d
+comment7.target=void\ statsGiven(java.lang.String,\ int,\ int,\ java.lang.String)
+comment8.params=a
+comment8.target=boolean\ checkValidMystr(java.lang.String)
+comment9.params=Args
+comment9.target=void\ main(java.lang.String[])
+numComments=12

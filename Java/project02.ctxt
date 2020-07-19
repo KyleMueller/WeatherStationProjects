@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=Args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=java.lang.String\ setName()
+comment2.params=
+comment2.target=int\ setTemp()
+comment3.params=
+comment3.target=int\ setSpeed()
+comment4.params=
+comment4.target=java.lang.String\ setDirection()
+comment5.params=name\ temp\ speed\ direction
+comment5.target=void\ stats(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=6
